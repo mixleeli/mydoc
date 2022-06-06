@@ -1,46 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on PaperMod</title>
-    <link>https://mixleeli.github.io/mydoc/posts/</link>
-    <description>Recent content in Posts on PaperMod</description>
-    <image>
-      <url>https://mixleeli.github.io/mydoc/papermod-cover.png</url>
-      <link>https://mixleeli.github.io/mydoc/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Jun 2022 08:16:13 +0800</lastBuildDate><atom:link href="https://mixleeli.github.io/mydoc/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A</title>
-      <link>https://mixleeli.github.io/mydoc/posts/a/</link>
-      <pubDate>Sat, 04 Jun 2022 08:16:13 +0800</pubDate>
-      
-      <guid>https://mixleeli.github.io/mydoc/posts/a/</guid>
-      <description>通过hugo new posts生成的md文件</description>
-    </item>
-    
-    <item>
-      <title>hugo静态页面</title>
-      <link>https://mixleeli.github.io/mydoc/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</link>
-      <pubDate>Sat, 04 Jun 2022 08:16:13 +0800</pubDate>
-      
-      <guid>https://mixleeli.github.io/mydoc/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</guid>
-      <description>gitee中的静态页面管理系统 支持 Jekyll、Hugo、Hexo编译静态资源 将md文件自动变换成静态页面html 初步了解 自行 流程 hugo 安装与配置 编写md（准备已经编辑好的md、对其进行调整） 安装hugo的主题包 hugo 命令进行本地测试 hugo命令进行本地发布——&amp;gt;html文件及各种其他文件 git将本地发布的页面推送到远端 gitee pages中重新部署 安装hugo 安装过程非常简单。只需要下载合适你系统版本的 Hugo 二进制 。 更理想的是，为了更方便的使用，你应该把它安装到你的 PATH 环境变量所在的位置。 推荐下载extended版本 hugo_extended_0.100.1_Windows-64bit.zip 安装与配置 把hugo.exe放置到 C:\Windows\System32 内 测试hugo是否可以正常运行 在命令行里面 输入 hugo version hugo的基本命令 创建网站 创建一个新的文件夹
-打开命令行窗口
-SD@DESKTOP-0DCL18 MINGW64 ~/Desktop/hugo_new$ hugo new site myblog 自动生成了一堆文件、文件夹
-新建md文件或者使用原有的md文件 md文件一定要放置到content\posts文件夹内
-新建md文件
-SD@DESKTOP-0DCL18 MINGW64 ~/Desktop/hugo_new$ hugo new posts/a.mdError: Unable to locate config file or config directory. Perhaps you need to create a new site.</description>
-    </item>
-    
-    <item>
-      <title>w9问题汇总</title>
-      <link>https://mixleeli.github.io/mydoc/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Sat, 04 Jun 2022 08:16:13 +0800</pubDate>
-      
-      <guid>https://mixleeli.github.io/mydoc/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</guid>
-      <description> js语句写在body、head和外部js文件中的区别是什么 自己搜到的结果：在head中所代表的functions只加载不执行，执行是在某一事件触发后才开始，在body中时直接加载并执行。引入单独的js文件可以降低网络传输量，提高代码复用性，便于维护和管理。例如：一个网站可能有很多页面需要引用某个javaScript函数，如果这个函数直接写在页面中，那每次加载页面时都将重复下载这部分代码。若引用单独的js文件，客户端第一次引用这个函数时就会下载js文件，后面再用直接引用本地缓存的js文件就行了。若需要修改某一函数，而这个函数在好多页面都用，偏偏又是都将代码写在了页面中，这是修改代码就成了简单的体力活了。若是引用的js文件就好多了，只需要修改一次就ok啦，既省时又省力。 上说relative是相对于它默认的位置而定位，但是慕课上说的是relative是相当于它的直接父元素而定位，这个怎么理解啊 遇到的问题：制作网页时，不能做到鼠标悬停时放大文字却不影响其他地方 解决方法：将需要放大的文字制作成盒子，在开始时把盒子的边框显示出来，观察文字放大时盒子的移动情况，最后得出结论，只用把盒子的高度宽度设置变大，在文字放大时不超出盒子的大小，就不会影响其他区域 console.log(is NaN(input));这个如何理解啊，这里的input是指从键盘中输入吗 【js小方法】isNaN，input中判断是数字_SQTTTTTTT的博客-CSDN博客_isnan判断是否是数字 感觉慕课上的网课看了之后，感觉收获很少 js与c语言哪里不同？ </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 我的全新 Hugo 网站</title>
+        <link>https://mixleeli.github.io/mydoc/posts/</link>
+        <description>All Posts | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 04 Jun 2022 08:16:13 &#43;0800</lastBuildDate><atom:link href="https://mixleeli.github.io/mydoc/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>A</title>
+    <link>https://mixleeli.github.io/mydoc/posts/a/</link>
+    <pubDate>Sat, 04 Jun 2022 08:16:13 &#43;0800</pubDate>
+    <author>mixlee</author>
+    <guid>https://mixleeli.github.io/mydoc/posts/a/</guid>
+    <description><![CDATA[通过hugo new posts生成的md文件]]></description>
+</item>
+<item>
+    <title>hugo静态页面</title>
+    <link>https://mixleeli.github.io/mydoc/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</link>
+    <pubDate>Sat, 04 Jun 2022 08:16:13 &#43;0800</pubDate>
+    <author>mixlee</author>
+    <guid>https://mixleeli.github.io/mydoc/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</guid>
+    <description><![CDATA[gitee中的静态页面管理系统 支持 Jekyll、Hugo、Hexo编译静态资源 将md文件自动变换成静态页面html 初步了解 自行 流程 hugo 安装与配]]></description>
+</item>
+<item>
+    <title>w9问题汇总</title>
+    <link>https://mixleeli.github.io/mydoc/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</link>
+    <pubDate>Sat, 04 Jun 2022 08:16:13 &#43;0800</pubDate>
+    <author>mixlee</author>
+    <guid>https://mixleeli.github.io/mydoc/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</guid>
+    <description><![CDATA[js语句写在body、head和外部js文件中的区别是什么 自己搜到的结果：在head中所代表的functions只加载不执行，执行是在某一事]]></description>
+</item>
+</channel>
 </rss>
