@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mixlee.gitee.io/mytest/posts/a/</loc>
+    <loc>https://mixleeli.github.io/mydoc/posts/a/</loc>
     <lastmod>2022-06-04T08:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</loc>
+    <loc>https://mixleeli.github.io/mydoc/posts/hugo%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/</loc>
     <lastmod>2022-06-04T08:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/</loc>
+    <loc>https://mixleeli.github.io/mydoc/</loc>
     <lastmod>2022-06-04T08:16:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://mixlee.gitee.io/mytest/fr/"
+                href="https://mixleeli.github.io/mydoc/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://mixlee.gitee.io/mytest/fa/"
+                href="https://mixleeli.github.io/mydoc/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mixlee.gitee.io/mytest/"
+                href="https://mixleeli.github.io/mydoc/"
                 />
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/posts/</loc>
+    <loc>https://mixleeli.github.io/mydoc/posts/</loc>
     <lastmod>2022-06-04T08:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://mixleeli.github.io/mydoc/posts/w9%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2022-06-04T08:16:13+08:00</lastmod>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/categories/</loc>
+    <loc>https://mixleeli.github.io/mydoc/categories/</loc>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/series/</loc>
+    <loc>https://mixleeli.github.io/mydoc/series/</loc>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/tags/</loc>
+    <loc>https://mixleeli.github.io/mydoc/tags/</loc>
   </url>
 </urlset>

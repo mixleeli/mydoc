@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mixlee.gitee.io/mytest/fa/facategories/</loc>
+    <loc>https://mixleeli.github.io/mydoc/fa/facategories/</loc>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/fa/faseries/</loc>
+    <loc>https://mixleeli.github.io/mydoc/fa/faseries/</loc>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/fa/fatags/</loc>
+    <loc>https://mixleeli.github.io/mydoc/fa/fatags/</loc>
   </url><url>
-    <loc>http://mixlee.gitee.io/mytest/fa/</loc>
+    <loc>https://mixleeli.github.io/mydoc/fa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://mixlee.gitee.io/mytest/"
+                href="https://mixleeli.github.io/mydoc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://mixlee.gitee.io/mytest/fr/"
+                href="https://mixleeli.github.io/mydoc/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://mixlee.gitee.io/mytest/fa/"
+                href="https://mixleeli.github.io/mydoc/fa/"
                 />
   </url>
 </urlset>
