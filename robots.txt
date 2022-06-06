@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://mixlee.gitee.io/mytest/sitemap.xml
